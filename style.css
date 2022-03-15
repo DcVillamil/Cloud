@@ -1,35 +1,38 @@
-.card img{
+.card img {
     width: auto;
     height: 150px;
 }
 
-h1{
-    font-family: 'Montserrat', sans-serif;;
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    ;
 }
 
-.plataforma{
+.plataforma {
     text-align: center;
 }
 
-.titulo_pla{
+.titulo_pla {
     background-color: cadetblue;
     margin-bottom: 50px;
 }
 
-.carousel-item img{
+.carousel-item img {
     height: 600px;
     width: auto;
 }
 
-.contacto{
+.contacto {
     width: auto;
     height: 350px;
     background-color: black;
 }
-.con p{
+
+.con p {
     color: white;
 }
 
-.red{
+.red {
     margin-top: 70px;
+    margin-left: 50px;
 }
